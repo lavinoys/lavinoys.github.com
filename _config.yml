@@ -8,10 +8,10 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : lavinoys Blog
+title : Blog
 tagline: Site Tagline
 author :
-  name : lavinoys
+  name : JK
   email : grmjkzz@gmail.com
   github : lavinoys
   twitter : lavinoys
